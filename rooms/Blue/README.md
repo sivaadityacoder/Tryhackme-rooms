@@ -246,7 +246,7 @@ flag{REDACTED}
 | 1 | Nmap scan of target | Reconnaissance | T1046 | Network Service Discovery |
 | 2 | SMB vulnerability scan | Reconnaissance | T1595.002 | Vulnerability Scanning |
 | 3 | EternalBlue exploit via SMB | Initial Access | T1190 | Exploit Public-Facing Application |
-| 4 | Reverse Meterpreter shell | Execution | T1059.001 | Command & Scripting Interpreter: PowerShell |
+| 4 | Reverse shell via SMB exploit | Execution | T1059.003 | Command & Scripting Interpreter: Windows Command Shell |
 | 5 | `getuid` → NT AUTHORITY\SYSTEM | Privilege Escalation | T1068 | Exploitation for Privilege Escalation |
 | 6 | `hashdump` from SAM | Credential Access | T1003.002 | OS Credential Dumping: SAM |
 | 7 | Crack NTLM hash offline | Credential Access | T1110.002 | Brute Force: Password Cracking |
