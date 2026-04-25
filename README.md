@@ -4,7 +4,7 @@
 
 ### by Siva Aditya
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sivaadityacoder)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sivaaditya)
 [![GitHub](https://img.shields.io/badge/GitHub-sivaadityacoder-181717?style=for-the-badge&logo=github)](https://github.com/sivaadityacoder)
 [![Rooms](https://img.shields.io/badge/Rooms_Completed-growing-brightgreen?style=for-the-badge)]()
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Referenced-blue?style=for-the-badge)](https://attack.mitre.org/)
